@@ -5,12 +5,12 @@ import NotFound from "@/views/NotFound.vue";
 
 const routes = [
   {
-    path: "/",
+    path: "/fallen-kingdom-wiki/",
     name: "Home",
     component: Home,
   },
   {
-    path: "/about",
+    path: "/fallen-kingdom-wiki/about",
     name: "About",
     component: About,
   },
